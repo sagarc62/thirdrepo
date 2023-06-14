@@ -1,4 +1,4 @@
 Django==1.11.7
 pytz==2018.3
 
-#this is added by me
+#this is added by me in the pc
